@@ -7,10 +7,10 @@ const routes: Routes = [
   {
     path: "",
     data: {
-      breadcrumb: "Formularios"
+      breadcrumb: "Formulario"
     },
     component: formComponent,
-    title:"Formularios"
+    title:"Formulario"
   }
 ];
 
