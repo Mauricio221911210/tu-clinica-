@@ -7,9 +7,6 @@ import { Component } from "@angular/core";
   styleUrls: ["./form.component.css"],
 })
 
-
-
-
-export class formComponent {
+export class FormComponent {
 
 }
